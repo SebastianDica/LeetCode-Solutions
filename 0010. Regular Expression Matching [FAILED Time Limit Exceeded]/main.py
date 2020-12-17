@@ -1,3 +1,5 @@
+# Attempt 2, unsuccesful so far
+
 def isMatch(s: str, p: str) -> bool:
     stringLength = len(s)
     patternLength = len(p)
